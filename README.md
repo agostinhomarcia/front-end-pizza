@@ -12,19 +12,19 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/projeto-cart-cafe?color=00FFFF">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/front-end-pizza?color=DC143C">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/projeto-cart-cafe?color=00FFFF">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/front-end-pizza?color=DC143C">
 
   <!-- <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/jogo-da-velha?color=008B8B"> -->
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/projeto-cart-cafe?color=00FFFF">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/front-end-pizza?color=DC143C">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/projeto-cart-cafe?color=00FFFF" /> 
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/front-end-pizza?color=DC143C" /> 
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/projeto-cart-cafe?color=00FFFF" /> 
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/front-end-pizza?color=DC143C" /> 
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/projeto-cart-cafe?color=00FFFF" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/front-end-pizza?color=DC143C" /> 
 </p>
 
 
@@ -53,7 +53,7 @@
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Add Product Cart;\
+:heavy_check_mark: Feature 1;\
 :heavy_check_mark: Feature 2;\
 :heavy_check_mark: Feature 3;
 
@@ -76,7 +76,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/projeto-cart-cafe.git
+$ git clone https://github.com/agostinhomarcia/front-end-pizza.git
 # Access
 $ cd projeto-cart-cafe
 # The server will initialize in the <http://127.0.0.1:5500/index.html>
@@ -94,7 +94,7 @@ Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
 
 
 <p align="center">
-   <img src="https://media.giphy.com/media/rUyzvyzURjPqem8mBM/giphy.gif" alt="cofe" width="350"/>
+   <img src="https://media.giphy.com/media/rUyzvyzURjPqem8mBM/giphy.gif" alt="pizza" width="350"/>
 </p>
 
 &#xa0;
