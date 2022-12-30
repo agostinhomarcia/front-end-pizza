@@ -44,7 +44,7 @@
 ## :dart: About ##
 
 
-<h4 align="center"> Coffe</h4>
+<h4 align="center"> Pizza</h4>
 
 <p align="center">
  <img src="src/img/pizza1.png" alt="coffe" width="850"/>
@@ -78,7 +78,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 # Clone this project
 $ git clone https://github.com/agostinhomarcia/front-end-pizza.git
 # Access
-$ cd projeto-cart-cafe
+$ cd front-end-pizza
 # The server will initialize in the <http://127.0.0.1:5500/index.html>
 ```
 
