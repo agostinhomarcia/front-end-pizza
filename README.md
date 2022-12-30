@@ -14,17 +14,17 @@
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/front-end-pizza?color=DC143C">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/front-end-pizza?color=DC143C">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/pizzaria?color=DC143C">
 
   <!-- <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/jogo-da-velha?color=008B8B"> -->
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/front-end-pizza?color=DC143C">
+  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/pizzaria?color=DC143C">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/front-end-pizza?color=DC143C" /> 
+   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/pizzaria?color=DC143C" /> 
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/front-end-pizza?color=DC143C" /> 
+   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/pizzaria?color=DC143C" /> 
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/front-end-pizza?color=DC143C" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/pizzaria?color=DC143C" /> 
 </p>
 
 
@@ -76,7 +76,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/front-end-pizza.git
+$ git clone https://github.com/agostinhomarcia/pizzaria.git
 # Access
 $ cd front-end-pizza
 # The server will initialize in the <http://127.0.0.1:5500/index.html>
