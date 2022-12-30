@@ -78,7 +78,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 # Clone this project
 $ git clone https://github.com/agostinhomarcia/pizzaria.git
 # Access
-$ cd front-end-pizza
+$ cd pizzaria
 # The server will initialize in the <http://127.0.0.1:5500/index.html>
 ```
 
